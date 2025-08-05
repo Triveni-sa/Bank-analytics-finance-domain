@@ -1,2 +1,3 @@
 # Bank-analytics-finance-domain
 Finance Domain | Bank Loan Analysis.
+This project is an in-depth analysis of bank loan data, aimed at uncovering key insights in to loan issuance trends, customer credit behaviour, and financial performance metrics. The analysis combines SQL, Tableau, Excel and Power BI for data extraction and transformation into data visualization,providing a comprehensive overview of loan trends over time, the financial health of different customer segments and risk assessment across various loan grades. This projects serves as a crucial tool for understanding the dynamics of loan portfolios and guiding strategic decision-making in the financial sector.
