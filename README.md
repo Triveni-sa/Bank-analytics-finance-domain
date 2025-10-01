@@ -3,9 +3,11 @@ Finance Domain | Bank Loan Analysis.
 This project is an in-depth analysis of bank loan data, aimed at uncovering key insights in to loan issuance trends, customer credit behaviour, and financial performance metrics. The analysis combines SQL, Tableau, Excel and Power BI for data extraction and transformation into data visualization,providing a comprehensive overview of loan trends over time, the financial health of different customer segments and risk assessment across various loan grades. This projects serves as a crucial tool for understanding the dynamics of loan portfolios and guiding strategic decision-making in the financial sector.
 
 Project Goal
+
 -:The primary objective was to transform key performance indicators (KPIs) into meaningful result using SQL. The aim was to create clear and comprehensive result that addressed the specified KPIs, making it easy for everyone to understand the company’s performance. This goal challenged me to refine my SQL data analysis skills and effectively communicate database, thereby facilitating better-informed decision-making based on the data.
 
 KPIs
+
 1)Year wise loan amount Stats
 2)Grade and sub grade wise revol_bal
 3)Total Payment for Verified Status Vs Total Payment for Non-Verified Status
